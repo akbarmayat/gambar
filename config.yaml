@@ -1,8 +1,9 @@
 baseURL: "https://fish.triknesia.com"
 disablePathToLower: true
-languageCode: es
-language: "es"
-title: Criptron
+languageCode: "en"
+language: "en"
+title: Fish
+future: true
 params:
   thumbnail: "/img/s.jpg"
 theme: lazy
